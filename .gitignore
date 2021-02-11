@@ -1,0 +1,8 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore environment variables file with API keys
+.env
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
