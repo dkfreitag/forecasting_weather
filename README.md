@@ -1,4 +1,10 @@
-TO DO:
+# Forecasting NYC weather using an ARIMA model
+
+This model is a work in progress. Currently this is a place to store my experimentation with a seasonal ARIMA model.
+
+---
+
+**In progress/to do:**
 
 - This article contains a full tutorial:
 	- https://towardsdatascience.com/econometric-approach-to-time-series-analysis-seasonal-arima-in-python-28f5782ee23
@@ -15,5 +21,7 @@ TO DO:
 - Use auto_arima to adjust my parameters
 	- https://towardsdatascience.com/get-a-glimpse-of-future-using-time-series-forecasting-using-auto-arima-and-artificial-intelligence-273efabec6aa
 
-Original tutorial I referenced:
+---
+
+**Original tutorial I referenced:**
 - https://www.digitalocean.com/community/tutorials/a-guide-to-time-series-forecasting-with-arima-in-python-3
